@@ -1,0 +1,9 @@
+api——接口代码
+assets——静态资源
+components——公用组件
+directive——指令代码
+filter——过滤器
+router——路由
+styles——less代码
+utils——工具函数
+views——路由级别组件
